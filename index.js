@@ -1,3 +1,3 @@
-console.log("Hello Austria");
+console.log("Hello Europe");
 
 console.log("Welcome");
