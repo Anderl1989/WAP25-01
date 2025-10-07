@@ -1,3 +1,3 @@
 console.log("Hello Europe");
 
-console.log("Welcome");
+console.log("Welcome to Hagenberg");
